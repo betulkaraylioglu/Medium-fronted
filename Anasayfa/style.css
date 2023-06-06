@@ -1,0 +1,17 @@
+
+.D{
+    float: left;
+    background-color: #ffc017;
+}
+.E{
+    display: flex;            
+    justify-content: center;            
+    align-items: center;
+    position: absolute;
+    right: 0px;
+}
+.link{
+    padding: 80px 0px 80px 0px;
+    margin-right: 18px;
+    text-align: center;
+}
