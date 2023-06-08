@@ -1,17 +1,29 @@
-
-.D{
-    float: left;
-    background-color: #ffc017;
+body {
+    height: 200vh;
+    margin: 0;
+    padding-top: 5em;
 }
-.E{
-    display: flex;            
-    justify-content: center;            
+/*Header Start*/
+header {
+    background-image: url(./img/header.jpeg);
+    height: 5em;
+    display: flex;
     align-items: center;
-    position: absolute;
-    right: 0px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    transition: background-color 0.4s ease-in-out;
 }
-.link{
-    padding: 80px 0px 80px 0px;
-    margin-right: 18px;
-    text-align: center;
+
+header nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.3em;
+    margin: 1em;
+    transition: color 0.4s ease-in-out;
+}
+button {
+    border-radius: 50px;
+    
 }
