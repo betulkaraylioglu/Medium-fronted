@@ -27,3 +27,15 @@ button {
     border-radius: 50px;
     
 }
+/*Slogan Start*/
+.slogan {
+    display: flex;
+    background-image: url(img/header.jpeg);
+    width: 100%;
+    height: auto;
+}
+.yazi {
+    width: 28%;
+    margin-left: 10px;
+    color: white;
+}
