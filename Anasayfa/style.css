@@ -39,3 +39,26 @@ button {
     margin-left: 10px;
     color: white;
 }
+/*Trendler Start*/
+.trend {
+    margin: 30px 5px 10px 5px;
+}
+.baslik {
+    display: flex;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.col {
+    display: flex;
+}
+.sayi {
+    margin-right: 20px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(152, 152, 152);
+}
+.konum {
+    display: flex;
+}
+.konum a {
+    color: black;
+}
