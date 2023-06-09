@@ -76,14 +76,14 @@ button {
 }
 /*Footer Start*/
 footer {
-    background-image: url(img/header.jpeg);
-    height: 90px;
+     background-image: url(img/header.jpeg);
+     height: 90px;
 }
 .yardim {
-   margin: 10px 20px 10px 20px;
+    margin: 10px 20px 10px 20px;
 }
 .yardim a {
-   color: white;
-   text-decoration: none;
-   margin-right: 10px;
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
 }
